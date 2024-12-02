@@ -6,28 +6,28 @@ const Parentcomponents = () => {
   const cars = [
     {
       CarsName: "TOYOTA COROLLA",
-      CarsImage: <Image src="/toyotacorolla.jfif" alt="corolla" width={250} height={250}/>,
+      CarsImage: <Image src="/Toyota_corolla.jpg" alt="corolla" width={250} height={250}/>,
       CarsPrice:"63 lac",
       CarsReview: "★★★★☆"
       
     },
     {
         CarsName: "SUZUKI ALTO",
-        CarsImage: <Image src="/suzuki alto.jfif" alt="corolla" width={250} height={250}/>,
+        CarsImage: <Image src="/Suzuki_alto.png" alt="corolla" width={250} height={250}/>,
         CarsPrice:"50 lac",
         CarsReview: "★★★☆☆"
         
       },
       {
         CarsName: "HONDA CITY",
-        CarsImage: <Image src="/honda city.jfif" alt="corolla" width={250} height={250}/>,
+        CarsImage: <Image src="/hondacity.jpg" alt="corolla" width={250} height={250}/>,
         CarsPrice:"77 lac",
         CarsReview: "★★★★☆"
         
       },
       {
         CarsName: "HONDA CIVIC",
-        CarsImage: <Image src="/honda civic.jfif" alt="corolla" width={250} height={250}/>,
+        CarsImage: <Image src="/hondacivic.jpg" alt="corolla" width={250} height={250}/>,
         CarsPrice:"80 lac",
         CarsReview: "★★★★☆"
         
