@@ -6,14 +6,14 @@ const Parentcomponents = () => {
   const cars = [
     {
       CarsName: "TOYOTA COROLLA",
-      CarsImage: <Image src="/Toyota_corolla.jpg" alt="corolla" width={250} height={250}/>,
+      CarsImage: <Image src="/toyotacorolla.jpg" alt="corolla" width={250} height={250}/>,
       CarsPrice:"63 lac",
       CarsReview: "★★★★☆"
       
     },
     {
         CarsName: "SUZUKI ALTO",
-        CarsImage: <Image src="/Suzuki_alto.png" alt="corolla" width={250} height={250}/>,
+        CarsImage: <Image src="/suzukialto.png" alt="corolla" width={250} height={250}/>,
         CarsPrice:"50 lac",
         CarsReview: "★★★☆☆"
         
